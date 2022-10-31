@@ -7,7 +7,8 @@ const routes = require("./routes/routes");
 const cors = require("cors");
 app.use(
   cors({
-    origin: "https://frabjous-froyo-8a5b2b.netlify.app/",
+    origin:
+      "https://635f313c8f41e600096b0554--frabjous-froyo-8a5b2b.netlify.app/",
   })
 );
 
